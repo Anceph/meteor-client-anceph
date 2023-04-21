@@ -17,6 +17,7 @@
     <img src="https://tokei.rs/b1/github/MeteorDevelopment/meteor-client" alt="GitHub lines of code"/>
 </div>
 
+### About
 My own fork of the Meteor Client with additions of my liking.
 
 ## Licensing
